@@ -63,7 +63,7 @@
 
 - **Set comprehension** (aka **set builder notation**) can be used to describe sets. 
 
-    - An example of set comprehension is: $ A = \lbrace x \in \mathbb{N} : x < 10 \rbrace$
+    - An example of set comprehension is: $A = \lbrace x \in \mathbb{N} : x < 10 \rbrace$
 
 - We can build new sets from one we already have ny taking the **union** or **intersection** of sets
 
@@ -78,7 +78,7 @@
 
 - There may also be the **range** of the function. 
 
-- We write $ f : X \rightarrow Y $ to describe that function f has a domain of X and a codomain of Y.
+- We write $f : X \rightarrow Y$ to describe that function f has a domain of X and a codomain of Y.
 
 - A key thing about the function rule is that there is exactly one output for each input.
 
@@ -104,7 +104,7 @@
 
 - Less-than relationship is also **antisymmetric** since there are no distinct numbers $a$ and $b$ such that $a < b$ and $b < a$.
 
-- It is also **transitive** since if $ a < b $ and $b < c$ then it must follow that $a < c$.
+- It is also **transitive** since if $a < b$ and $b < c$ then it must follow that $a < c$.
 
 - If we can prove a given relation is **reflexive**, **symmetric**, and **transitive**, then we know that the relation is an **equivalence relation**. 
     - Once known its a equivalence relation, its known that it has a bunch of other properties.
@@ -120,7 +120,7 @@
 
 ## Questions 
 ### What is discrete math?
-{0,1,2,3} is discrete because the elements are separate. Whereas $ y = x^2 $ is not discrete because the outputs are not separate. 
+{0,1,2,3} is discrete because the elements are separate. Whereas $y = x^2$ is not discrete because the outputs are not separate. 
 ### What are the four main topics that will be presented in this book?
 The four main topics are **combinatorics** (the theory of ways things combine), **sequences**, **symbolic logic**, and **graph theory**.
 
