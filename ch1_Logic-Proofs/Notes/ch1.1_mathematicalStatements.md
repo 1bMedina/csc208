@@ -47,5 +47,3 @@
 - **truth conditions**: the condition at which a statement is true depending on logic operators. 
 
 - **universal generalization** - the statement obtained by adding enough universal qualifiers to the beginning of the sentence so that all free variables become bound. 
-
-[reading questions, practice problems, and additional exercises here](#)
