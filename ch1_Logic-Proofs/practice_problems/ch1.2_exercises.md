@@ -56,6 +56,16 @@
     D. Original implication
     E. Original implication
 
+## Additional Exercises - Answers 
+#### 1. Translate into English:
 
+-  $\forall x (E(x) \to E(x+2))$
+    - for all $x$, if x has property $E$, then $x+2$ also has property $E$
+- $\forall x \exists y (sin(x) = y)$
+    - for all $x$, there exists a $y$ such that $sin(x) = y$
+- $\forall y \exists x (sin(x) = y)$
+    - for all $y$, there exists a $x$ such that $sin(x) = y$
+- $\forall x \forall y (x^3 = y^3 \to x = y)$
+    - for all x and for all y, if $x^3 = y^3$, then $x = y$
 
 

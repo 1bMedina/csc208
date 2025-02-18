@@ -12,8 +12,8 @@
     - An implication is **true** provided $P$ is **false** or $Q$ is true (or both), and false otherwise. 
 
     - The only way for $P \to Q$ to be false is for $P$ to be true **and** $Q$ false.
-- "$P$ is necessary for $Q$" means $Q \to P$
-- "$P$ is sufficient for $Q$" means $P \to Q$
+- " $P$ is necessary for $Q$" means $Q \to P$
+- " $P$ is sufficient for $Q$" means $P \to Q$
 - If $P$ is necessary and sufficient for $Q$, then $P \leftrightarrow Q$
 
 ## Notes
