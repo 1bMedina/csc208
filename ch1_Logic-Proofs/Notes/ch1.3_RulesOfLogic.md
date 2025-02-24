@@ -40,7 +40,7 @@
     and, 
 
     $\neg (P \lor Q) \equiv \neg P \land \neg Q$
-- Negation of an Implication:
+- **Negation of an Implication**:
     - The negation of an implication is a conjunction:
 
     $\neg (P \to Q) \equiv P \land \neg Q$
