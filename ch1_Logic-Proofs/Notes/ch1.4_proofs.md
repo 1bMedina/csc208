@@ -6,7 +6,7 @@
     - It is **valid** when any digit 1 to 4 does not appear more than once in any row, column, or box.
     - The **solution** is a valid puzzle with no empty boxes and every non-empty squares of the puzzle unchanged. 
     - The mini sudoku is **solvable** if there is exactly one solution. 
-- **Proposition**: Any solution to a mini sudoku will have each digit from 1 to 4 appear exactly once in each row, column, and box, appearing a total of 4 times. 
+    - **Proposition**: Any solution to a mini sudoku will have each digit from 1 to 4 appear exactly once in each row, column, and box, appearing a total of 4 times. 
 - **Arbitrary Solution**: A solution chosen without any restrictions or conditions. 
 
 ### Notes 
