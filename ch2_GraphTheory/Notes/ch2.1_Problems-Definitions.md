@@ -5,7 +5,7 @@
     - When two vertices are connected by an edge, we say they are **adjacent**.
 - An **adjacency list** is a list where each vertex gets a list of which other vertices it's adjacent to.
 - An **adjacency matrix** is here there are rows and columns that correspond to the vertices and the entries are 1 if the vertices are adjacent to 0 otherwise.
-- A graph could be defined as $ (\set{a,b,c,d}, \set{\set{a,b}, \set{b,c},\set{b,d},\set{c,d}})$ 
+- A graph could be defined as $(\set{a,b,c,d}, \set{\set{a,b}, \set{b,c},\set{b,d},\set{c,d}})$ 
     - Here we have four vertices (the letters $a,b,c,d$) and five edges (the pairs $\set{a,b}, \set{b,c},\set{b,d},\set{c,d}$).
 - Graphs that are basically the same, but perhaps not equal, are called **isomorphic**.
     - Graphs can be isomorphic if they are the same except for the name of the vertices. 
@@ -34,8 +34,7 @@
 ## Lemma 
 - ***Handshake Lemma***: In any graph, the sum of the degrees of vertices in the graph is always twice the number of edges. 
     - Handshake lemma is sometimes called the *degree sum formula* and can be written symbolically as:
-    $$
-    \sum\limits_{v\in V} d(v)=2e.
+    $$\sum\limits_{v\in V} d(v)=2e.
     $$
     - The notation $d(v)$ stands for the degree of the vertex $v$.
     - One use for the lemma is to actually find the number of edges in a graph.
