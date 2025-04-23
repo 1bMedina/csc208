@@ -28,7 +28,10 @@ Suppose you have sets $A$ and $B$ with $|A| = 11$ and $|B| = 19$.
 
 - The minimum union ($|A \cup B| = 19$)occurs when $A$ is entirely contained in $B$, the max intersection $|A \cap B| = 11.$
 <br>
-    math $$|A \cup B| = 11 + 19 - 11 = 19$$ Inclusion-Exclusion Principle
+    ``` math
+    |A \cup B| = 11 + 19 - 11 = 19
+    ``` 
+    Inclusion-Exclusion Principle
 <br>
 
 - The maximum union ($|A \cup B| =30$) occurs when $A$ and $B$ are disjoint, the minimum intersection $|A \cup B| = 11 + 19 - 0 = 30$
