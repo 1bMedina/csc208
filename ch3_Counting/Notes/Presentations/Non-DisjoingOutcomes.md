@@ -6,14 +6,14 @@ Suppose you have sets $A$ and $B$ with $|A| = 11$ and $|B| = 19$.
 
 **1. What is the largest possible value for $|A \cap B|$?**
 
-**Answer:** 11
+**Answer:** $11$
 <br>
 
 **Why?** The intersection ($\cap$) cannot exceed the size of the smaller set. Since $|A| = 11$, the largest possible $|A \cap B|$ is $11$ (i.e., $A$ is entirely contained within $B$)
 
 **2. What is the smallest possible value for $|A \cap B|$?**
 
-**Answer:** 0
+**Answer:** $0$
 <br>
 
 **Why?** The intersection ($\cap$) can be empty if $A$ and $B$ are **disjoint** (no overlap). Therefore, the smallest possible $|A \cap B|$ is $0$.
@@ -26,7 +26,7 @@ Suppose you have sets $A$ and $B$ with $|A| = 11$ and $|B| = 19$.
 **Why?** 
 <br>
 
-- The minimum union ($|A \cup B| = 19$)occurs when $A$ is entirely contained in $B$, the max intersection $|A \cap B| = 11.$
+- The minimum union ($|A \cup B| = 19$) occurs when $A$ is entirely contained in $B$, the max intersection $|A \cap B| = 11.$
 <br>
 
 $|A \cup B| = 11 + 19 - 11 = 19$    
