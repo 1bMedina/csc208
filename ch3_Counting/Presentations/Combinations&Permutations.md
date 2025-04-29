@@ -2,8 +2,9 @@
 ## Practice Problems 4 & 9 - Blu and Hisham
 
 ## Question 4: 
-    > In an attempt to clean up your room, you have purchased a new floating shelf to put some of your 18 books you have 
-    > stacked in a corner. These books are all by different authors. The new book shelf is large enough to hold 14 of the books. Careful: Before answering the next two questions, ask yourself which answer should be larger.
+<div style="padding: 10px; border-left: 4px solid #ccc; background: #f9f9f9;">
+In an attempt to clean up your room, you have purchased a new floating shelf to put some of your 18 books you have stacked in a corner. These books are all by different authors. The new book shelf is large enough to hold 14 of the books. Careful: Before answering the next two questions, ask yourself which answer should be larger.
+</div>
 
 1. How many ways can you select and arrange 14 of the 18 books on the shelf? Notice that here we will allow the books to end up in any order.
 
