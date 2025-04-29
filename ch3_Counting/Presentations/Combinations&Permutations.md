@@ -26,7 +26,7 @@
 
 ## Question 9: 
 
-    How many different seating arrangements are possible for King Arthur and his 16 knights around their round table?
+> How many different seating arrangements are possible for King Arthur and his 16 knights around their round table?
 
 **Answer**: $\boxed{16!}$
 
