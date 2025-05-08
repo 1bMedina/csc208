@@ -54,7 +54,7 @@ Therefore, we get $31\choose3$ because we to choose 3 positions out of the 31.
     - To prove it is a bijection we must prove to things:
         - It's injective 
         - It's surjective
-    - Injective means that there is a one to one mapping or $f(a) = f(b)$ then $ a= b$
+    - Injective means that there is a one to one mapping or $f(a) = f(b)$ then $a= b$
         - Meaning no two elements map to the same thing
     - Surjective means there is at least one element that hits everything in the co-domain
     - It's both:
