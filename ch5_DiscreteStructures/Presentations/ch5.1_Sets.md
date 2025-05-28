@@ -1,7 +1,7 @@
 # Chapter 5.1 Sets
 ## Practice Problem 1
 
->> $A = \set{5,7,8,9,10}$ and $B = \set{5,10,11,15,20}$ Find each of the following sets. 
+### $A = \set{5,7,8,9,10}$ and $B = \set{5,10,11,15,20}$ Find each of the following sets. 
 
 1. $A \cup B$
     - Answer: $\set{5,7,8,9,10,11,15,20}$
